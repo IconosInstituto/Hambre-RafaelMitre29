@@ -1,9 +1,9 @@
 #ICONOS, Instituto de Investigación en Comunicación y Cultura
 ##Proyecto integrador 
-Periodo: **2017-1**
-Tema: **Hambre**
-Nombre: **RafaelMitre29**
-Título de proyecto: ***Preocupación***
+- Periodo: **2017-1**
+- Tema: **Hambre**
+- Nombre: **RafaelMitre29**
+- Título de proyecto: ***Preocupación***
 
 Activos
 - Se debe de realizar un sitio web con html5 y Css3
