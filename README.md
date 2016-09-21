@@ -14,11 +14,11 @@ Activos
 - Titling
 
 Asignaturas:
-Liderazgo y gestión de productos digitales
-Hojas de estilo para sitios web
-Diseño de espacios
-Dibujo 3D
-Estrategias de significación
-Interactividad avanzada
-Creatividad publicitaria
+Liderazgo y gestión de productos digitales|
+Hojas de estilo para sitios web|
+Diseño de espacios|
+Dibujo 3D|
+Estrategias de significación|
+Interactividad avanzada|
+Creatividad publicitaria|
 
