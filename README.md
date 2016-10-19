@@ -40,4 +40,6 @@
 - Negro, blanco, carbó, gris claro y azul, colores contrastantes que ayudaráan a dar estilo al museo.
 
 
-
+![Paleta de colores](Captura de pantalla 2016-10-19 a la(s) 12.55.54.png)
+**Ubicaciòn:**
+- La ubicación es un terreno desocupado en donde antes solìa estar un museo de arte contemporàneo, está ubicado al noroeste de la Ciudad de México.
