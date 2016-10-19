@@ -3,9 +3,9 @@
 - Periodo: **2017-1**
 - Tema: **Hambre**
 - Nombre: **RafaelMitre29**
-- Título de proyecto: ***Preocupación***
+- Título de proyecto: ***Preocúpate***
 
-Activos
+**Activos:**
 - Se debe de realizar un sitio web con html5 y Css3
 - Un Museo 3d
 - Uns instalación
@@ -13,7 +13,7 @@ Activos
 - Logotipo
 - Titling
 
-Asignaturas:
+**Asignaturas:**
 - Liderazgo y gestión de productos digitales|
 - Hojas de estilo para sitios web|
 - Diseño de espacios|
@@ -22,3 +22,8 @@ Asignaturas:
 - Interactividad avanzada|
 - Creatividad publicitaria|
 
+**Características de museo:**
+- Llevará como concepto un estilo arquitectónico brutalista|
+- Constará de 3 salas, en la primera se verá la problemática, en la segunda las evidencias, y en la última las posibles soliciones al problema|
+
+![(Captura de pantalla 2016-10-19 a la(s) 11.52.11.png)
