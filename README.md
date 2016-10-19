@@ -26,5 +26,5 @@
 - Llevará como concepto un estilo arquitectónico brutalista|
 - Constará de 3 salas, en la primera se verá la problemática, en la segunda las evidencias, y en la última las posibles soliciones al problema|
 
-![Propuestas de logotipos](hambre logotipo.pdf)
+![Propuestas de logotipos](Captura de pantalla 2016-10-19 a la(s) 12.38.16.png)
 ![Maquetado](Maquetado)
