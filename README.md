@@ -27,4 +27,11 @@
 - Constará de 3 salas, en la primera se verá la problemática, en la segunda las evidencias, y en la última las posibles soliciones al problema|
 
 ![Propuestas de logotipos](Captura de pantalla 2016-10-19 a la(s) 12.38.16.png)
-![Maquetado](Maquetado)
+**Propuestas d elogotipos:**
+- Las propuestas están hechas con bases de estrategias|
+- Se busca hacer una comunicaciòn amigable y positiva
+|
+![Maquetado](Captura de pantalla 2016-10-19 a la(s) 11.52.11.png)
+**Propuestas d elogotipos:**
+- El sitio estará compuesto de 5 secciones, donde se estaràn presentando fotos, videos y misiòn del museo virtual, ademàs de datos duros sobre el tema del hambre en Mèxico
+
