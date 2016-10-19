@@ -27,16 +27,16 @@
 - Constará de 3 salas, en la primera se verá la problemática, en la segunda las evidencias, y en la última las posibles soliciones al problema|
 
 ![Propuestas de logotipos](Captura de pantalla 2016-10-19 a la(s) 12.38.16.png)
-**Propuestas d elogotipos:**
+**Propuestas de logotipos:**
 - Las propuestas están hechas con bases de estrategias|
 - Se busca hacer una comunicaciòn amigable y positiva
 |
 ![Maquetado](Captura de pantalla 2016-10-19 a la(s) 11.52.11.png)
-**Propuestas d elogotipos:**
+**Sitio Web:**
 - El sitio estará compuesto de 5 secciones, donde se estaràn presentando fotos, videos y misiòn del museo virtual, ademàs de datos duros sobre el tema del hambre en Mèxico
 
 ![Paleta de colores](Captura de pantalla 2016-10-19 a la(s) 12.57.37.png)
-**Propuestas d elogotipos:**
+**Paleta de colores:**
 - Negro, blanco, carbó, gris claro y azul, colores contrastantes que ayudaráan a dar estilo al museo.
 
 
