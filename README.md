@@ -35,3 +35,9 @@
 **Propuestas d elogotipos:**
 - El sitio estará compuesto de 5 secciones, donde se estaràn presentando fotos, videos y misiòn del museo virtual, ademàs de datos duros sobre el tema del hambre en Mèxico
 
+![Paleta de colores](Captura de pantalla 2016-10-19 a la(s) 12.57.37.png)
+**Propuestas d elogotipos:**
+- Negro, blanco, carbó, gris claro y azul, colores contrastantes que ayudaráan a dar estilo al museo.
+
+
+
